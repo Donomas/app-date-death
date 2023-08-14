@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/app-date-death/static/css/main.4b726357.css",
+    "main.js": "/app-date-death/static/js/main.c9997de3.js",
+    "index.html": "/app-date-death/index.html",
+    "main.4b726357.css.map": "/app-date-death/static/css/main.4b726357.css.map",
+    "main.c9997de3.js.map": "/app-date-death/static/js/main.c9997de3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b726357.css",
+    "static/js/main.c9997de3.js"
+  ]
+}
